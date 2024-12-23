@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #2E8B57;">Siva Sankar S | IIT Madras</h1>
+<h1 align="center" style="color: #2E8B57;">Siva Sankar S</h1>
 
 <p align="center">
   <strong>Chemical Engineering BTech & Data Science MTech</strong><br>
