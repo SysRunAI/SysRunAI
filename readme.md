@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SivaSankarS365" style="text-decoration:none; color:#2E8B57;">
+  <a href="https://github.com/SysRunAU" style="text-decoration:none; color:#2E8B57;">
     <img src="https://img.shields.io/badge/GitHub-SivaSankarS365-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:sivasankars365@gmail.com" style="text-decoration:none; color:#D14836;">
+  <a href="mailto:SysRunAU@gmail.com" style="text-decoration:none; color:#D14836;">
     <img src="https://img.shields.io/badge/Gmail-sivasankars365-D14836?style=for-the-badge&logo=gmail" alt="Gmail">
   </a>
   <a href="https://wa.me/+919283217898" style="text-decoration:none; color:#25D366;">
