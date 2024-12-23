@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SysRunAU" style="text-decoration:none; color:#2E8B57;">
-    <img src="https://img.shields.io/badge/GitHub-SivaSankarS365-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/SysRunAI" style="text-decoration:none; color:#2E8B57;">
+    <img src="https://img.shields.io/badge/GitHub-SysRunAI-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:SysRunAU@gmail.com" style="text-decoration:none; color:#D14836;">
-    <img src="https://img.shields.io/badge/Gmail-sivasankars365-D14836?style=for-the-badge&logo=gmail" alt="Gmail">
+  <a href="mailto:SysRunAI@gmail.com" style="text-decoration:none; color:#D14836;">
+    <img src="https://img.shields.io/badge/Gmail-SysRunAI-D14836?style=for-the-badge&logo=gmail" alt="Gmail">
   </a>
   <a href="https://wa.me/+919283217898" style="text-decoration:none; color:#25D366;">
     <img src="https://img.shields.io/badge/WhatsApp-+919283217898-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
